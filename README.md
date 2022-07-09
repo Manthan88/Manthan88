@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manthan
-- 👀 I’m interested in Business Intelligence, Data Visualization
-- 💞️ I’m looking to collaborate on SQL
+- 👀 I’m interested and keen to enhance my knowledge in Business Intelligence, Data Modelling & Data Visualization
+- 💞️ I’m looking to collaborate on creating Data models, ETL/ELT pipelines using SQL, Tableau and more.
 
 <!---
 Manthan88/Manthan88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
